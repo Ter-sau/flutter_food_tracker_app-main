@@ -10,7 +10,7 @@ void main() async {
   //โค้ดติดต่อกับ supabaseกับโปรเจคที่เราทำงานด้วย
   WidgetsFlutterBinding.ensureInitialized();
   await Supabase.initialize(
-    url: 'https://lndjckkhxghkrfaaznbx.supabase.co',
+    url: 'https://konblexhgeupwzgswxkv.supabase.co',
     publishableKey: 'sb_publishable_9fDbotUivKiHk_6MNOlZrg_yMu_B7Lt',
   );
   runApp(
